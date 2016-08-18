@@ -1,3 +1,24 @@
+# Angular-CLI webpack
+If you already have angular-cli
+
+npm uninstall -g angular-cli
+npm cache clean
+npm install -g angular-cli@webpack
+
+For Fresh Angular-cli
+
+npm install -g angular-cli@webpack
+
+# Clone Repo
+Now clone the repo
+
+# Install Packages
+npm install
+
+# start
+ng serve
+
+
 # Angular2Rc5MaterialWebpack
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.11-webpack.2.
